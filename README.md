@@ -1,5 +1,16 @@
 # UPI Transaction Dashboard | Power BI
 
+## Dashboard Preview
+
+### Transaction and Balance Analysis
+
+![UPI Dashboard Page 1](Screenshots/dashboard_page1.png)
+
+
+### Monthly Transaction Analysis
+
+![UPI Dashboard Page 2](Screenshots/dashboard_page2.png)
+
 ## Overview
 This project is an interactive Power BI dashboard built to analyze UPI transaction data and identify monthly transaction trends.
 
